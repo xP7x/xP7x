@@ -52,6 +52,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/xP7x/xP7x/output/snake.svg" alt="Snake animation" />
 
 ###
